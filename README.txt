@@ -1,0 +1,1 @@
+This directory for working test to Git. 
